@@ -1,0 +1,86 @@
+incident_id,title,severity,service,started_at,detected_at,acknowledged_at,resolved_at,detection_source,caused_by_deploy,root_cause_category
+INC-880,Session tokens expiring early,SEV3,accounts,2026-05-01T00:48:00Z,2026-05-01T00:57:00Z,2026-05-01T01:42:00Z,2026-05-01T11:00:00Z,monitoring,,capacity
+INC-881,Search returns empty results,SEV3,search,2026-05-01T19:55:00Z,2026-05-01T22:47:00Z,2026-05-02T00:17:00Z,2026-05-02T03:24:00Z,customer_report,DEP-4102,code_change
+INC-882,Category pages timing out,SEV2,catalog,2026-05-01T20:32:00Z,2026-05-01T20:44:00Z,2026-05-01T21:02:00Z,2026-05-02T03:16:00Z,synthetic_check,DEP-4103,code_change
+INC-883,Cart totals not updating,SEV3,checkout,2026-05-02T21:25:00Z,2026-05-02T21:30:00Z,2026-05-02T22:00:00Z,2026-05-03T12:56:00Z,qa,,data_issue
+INC-884,Session tokens expiring early,SEV4,accounts,2026-05-03T11:19:00Z,2026-05-03T13:51:00Z,2026-05-03T14:35:00Z,2026-05-04T07:54:00Z,customer_report,,capacity
+INC-885,Stock counts out of sync,SEV3,inventory,2026-05-04T23:37:00Z,2026-05-05T03:35:00Z,2026-05-05T04:31:00Z,2026-05-05T11:12:00Z,customer_report,DEP-4107,schema_migration
+INC-886,Category pages timing out,SEV3,catalog,2026-05-05T03:52:00Z,2026-05-05T06:15:00Z,2026-05-05T07:38:00Z,2026-05-05T16:32:00Z,customer_report,,infrastructure
+INC-887,Password reset emails delayed,SEV2,accounts,2026-05-05T22:12:00Z,2026-05-06T00:34:00Z,2026-05-06T00:40:00Z,2026-05-06T02:52:00Z,customer_report,DEP-4110,schema_migration
+INC-888,Checkout latency p95 > 4s,SEV3,checkout,2026-05-09T08:27:00Z,2026-05-09T12:14:00Z,2026-05-09T12:48:00Z,2026-05-10T01:39:00Z,customer_report,,infrastructure
+INC-889,Price sync delayed,SEV2,catalog,2026-05-11T13:11:00Z,2026-05-11T13:23:00Z,2026-05-11T13:51:00Z,2026-05-11T18:25:00Z,qa,,data_issue
+INC-890,Search returns empty results,SEV3,search,2026-05-14T15:52:00Z,2026-05-14T15:58:00Z,2026-05-14T16:41:00Z,2026-05-14T23:26:00Z,monitoring,,infrastructure
+INC-891,Search returns empty results,SEV4,search,2026-05-18T10:13:00Z,2026-05-18T10:22:00Z,2026-05-18T11:55:00Z,2026-05-19T20:45:00Z,synthetic_check,,data_issue
+INC-892,Search returns empty results,SEV2,search,2026-05-20T16:55:00Z,2026-05-20T17:00:00Z,2026-05-20T17:09:00Z,2026-05-21T03:35:00Z,synthetic_check,DEP-4160,schema_migration
+INC-893,Login failures spike,SEV2,accounts,2026-05-27T06:21:00Z,2026-05-27T11:06:00Z,2026-05-27T11:38:00Z,2026-05-27T16:25:00Z,customer_report,,third_party
+INC-894,Search returns empty results,SEV3,search,2026-05-28T22:54:00Z,2026-05-29T03:02:00Z,2026-05-29T03:48:00Z,2026-05-29T10:50:00Z,customer_report,DEP-4186,code_change
+INC-895,Password reset emails delayed,SEV3,accounts,2026-06-01T08:24:00Z,2026-06-01T08:36:00Z,2026-06-01T08:59:00Z,2026-06-01T19:29:00Z,qa,,infrastructure
+INC-896,Product images not loading,SEV3,catalog,2026-06-03T23:40:00Z,2026-06-03T23:47:00Z,2026-06-04T01:07:00Z,2026-06-04T14:48:00Z,monitoring,DEP-4204,config_change
+INC-897,Payment webhook backlog,SEV3,payments,2026-06-04T23:29:00Z,2026-06-04T23:38:00Z,2026-06-05T00:08:00Z,2026-06-05T05:04:00Z,monitoring,DEP-4209,code_change
+INC-898,Autocomplete degraded,SEV3,search,2026-06-06T02:57:00Z,2026-06-06T03:02:00Z,2026-06-06T03:30:00Z,2026-06-06T08:51:00Z,synthetic_check,,data_issue
+INC-899,Autocomplete degraded,SEV4,search,2026-06-09T23:44:00Z,2026-06-09T23:55:00Z,2026-06-10T00:36:00Z,2026-06-10T14:10:00Z,synthetic_check,,third_party
+INC-900,Autocomplete degraded,SEV3,search,2026-06-11T17:52:00Z,2026-06-11T17:58:00Z,2026-06-11T18:59:00Z,2026-06-12T07:17:00Z,monitoring,DEP-4231,schema_migration
+INC-901,Cart totals not updating,SEV3,checkout,2026-06-12T17:10:00Z,2026-06-12T19:19:00Z,2026-06-12T20:01:00Z,2026-06-13T23:37:00Z,customer_report,DEP-4235,code_change
+INC-902,Price sync delayed,SEV2,catalog,2026-06-15T09:18:00Z,2026-06-15T09:33:00Z,2026-06-15T09:42:00Z,2026-06-15T13:32:00Z,synthetic_check,,infrastructure
+INC-903,Card authorizations failing,SEV2,payments,2026-06-15T22:46:00Z,2026-06-15T22:57:00Z,2026-06-15T23:19:00Z,2026-06-16T05:08:00Z,synthetic_check,DEP-4243,schema_migration
+INC-904,Login failures spike,SEV3,accounts,2026-06-16T19:22:00Z,2026-06-16T21:20:00Z,2026-06-16T22:23:00Z,2026-06-17T12:57:00Z,customer_report,DEP-4244,schema_migration
+INC-905,Low-stock alerts not firing,SEV4,inventory,2026-06-18T18:49:00Z,2026-06-18T22:17:00Z,2026-06-18T22:47:00Z,2026-06-19T07:42:00Z,customer_report,,capacity
+INC-906,Stock counts out of sync,SEV3,inventory,2026-06-23T08:28:00Z,2026-06-23T08:42:00Z,2026-06-23T09:36:00Z,2026-06-23T19:15:00Z,monitoring,,data_issue
+INC-907,Stock counts out of sync,SEV3,inventory,2026-06-24T00:05:00Z,2026-06-24T00:17:00Z,2026-06-24T00:45:00Z,2026-06-24T13:49:00Z,monitoring,,capacity
+INC-908,Price sync delayed,SEV3,catalog,2026-06-24T22:26:00Z,2026-06-24T22:46:00Z,2026-06-24T23:20:00Z,2026-06-25T11:33:00Z,monitoring,DEP-4274,config_change
+INC-909,Refund job stuck,SEV2,payments,2026-07-02T22:20:00Z,2026-07-02T22:28:00Z,2026-07-02T22:38:00Z,2026-07-03T05:38:00Z,synthetic_check,DEP-4305,code_change
+INC-910,Refund job stuck,SEV3,payments,2026-07-06T16:09:00Z,2026-07-06T17:46:00Z,2026-07-06T18:29:00Z,2026-07-07T06:57:00Z,customer_report,,capacity
+INC-911,Session tokens expiring early,SEV4,accounts,2026-07-09T04:27:00Z,2026-07-09T08:07:00Z,2026-07-09T09:09:00Z,2026-07-09T22:03:00Z,customer_report,,data_issue
+INC-912,Password reset emails delayed,SEV4,accounts,2026-07-14T00:33:00Z,2026-07-14T00:46:00Z,2026-07-14T01:23:00Z,2026-07-15T05:10:00Z,monitoring,,third_party
+INC-913,Search returns empty results,SEV3,search,2026-07-15T21:30:00Z,2026-07-15T22:35:00Z,2026-07-15T22:56:00Z,2026-07-16T09:55:00Z,customer_report,DEP-4353,schema_migration
+INC-914,Autocomplete degraded,SEV2,search,2026-07-16T12:44:00Z,2026-07-16T12:53:00Z,2026-07-16T13:13:00Z,2026-07-16T23:25:00Z,monitoring,,third_party
+INC-915,Autocomplete degraded,SEV3,search,2026-07-16T23:09:00Z,2026-07-17T02:11:00Z,2026-07-17T02:38:00Z,2026-07-17T10:00:00Z,customer_report,DEP-4359,config_change
+INC-916,Password reset emails delayed,SEV2,accounts,2026-07-19T06:07:00Z,2026-07-19T06:18:00Z,2026-07-19T06:32:00Z,2026-07-19T10:08:00Z,monitoring,,infrastructure
+INC-917,Category pages timing out,SEV2,catalog,2026-07-22T16:01:00Z,2026-07-22T18:42:00Z,2026-07-22T19:14:00Z,2026-07-22T19:57:00Z,customer_report,DEP-4374,config_change
+INC-918,Stock counts out of sync,SEV2,inventory,2026-07-27T21:37:00Z,2026-07-27T21:49:00Z,2026-07-27T22:08:00Z,2026-07-28T02:57:00Z,synthetic_check,DEP-4392,schema_migration
+INC-919,Price sync delayed,SEV4,catalog,2026-07-28T20:46:00Z,2026-07-28T22:43:00Z,2026-07-28T23:47:00Z,2026-07-30T09:42:00Z,customer_report,,infrastructure
+INC-920,Autocomplete degraded,SEV2,search,2026-07-30T19:15:00Z,2026-07-30T19:21:00Z,2026-07-30T19:32:00Z,2026-07-31T05:55:00Z,monitoring,DEP-4408,schema_migration
+INC-921,Autocomplete degraded,SEV2,search,2026-08-07T21:49:00Z,2026-08-07T21:59:00Z,2026-08-07T22:05:00Z,2026-08-08T01:48:00Z,monitoring,,infrastructure
+INC-922,Autocomplete degraded,SEV2,search,2026-08-10T05:57:00Z,2026-08-10T06:11:00Z,2026-08-10T06:18:00Z,2026-08-10T10:10:00Z,qa,,capacity
+INC-923,Product images not loading,SEV2,catalog,2026-08-12T07:06:00Z,2026-08-12T07:12:00Z,2026-08-12T07:17:00Z,2026-08-12T09:39:00Z,synthetic_check,,capacity
+INC-924,Search returns empty results,SEV4,search,2026-08-14T20:47:00Z,2026-08-14T23:51:00Z,2026-08-15T00:10:00Z,2026-08-15T04:18:00Z,customer_report,,third_party
+INC-925,Low-stock alerts not firing,SEV3,inventory,2026-08-15T00:31:00Z,2026-08-15T00:52:00Z,2026-08-15T01:17:00Z,2026-08-15T05:44:00Z,synthetic_check,,infrastructure
+INC-926,Search index lagging,SEV4,search,2026-08-17T11:10:00Z,2026-08-17T11:18:00Z,2026-08-17T11:36:00Z,2026-08-17T16:57:00Z,monitoring,,capacity
+INC-927,Price sync delayed,SEV4,catalog,2026-08-18T22:57:00Z,2026-08-18T23:04:00Z,2026-08-18T23:19:00Z,2026-08-19T16:34:00Z,qa,,data_issue
+INC-928,Password reset emails delayed,SEV2,accounts,2026-08-21T20:00:00Z,2026-08-21T21:32:00Z,2026-08-21T21:41:00Z,2026-08-21T23:03:00Z,customer_report,DEP-4497,config_change
+INC-929,Category pages timing out,SEV2,catalog,2026-08-24T20:35:00Z,2026-08-24T20:42:00Z,2026-08-24T20:51:00Z,2026-08-24T23:38:00Z,synthetic_check,DEP-4504,code_change
+INC-930,Promo codes rejected at checkout,SEV3,checkout,2026-08-25T19:49:00Z,2026-08-25T20:07:00Z,2026-08-25T20:25:00Z,2026-08-26T00:07:00Z,monitoring,,third_party
+INC-931,Promo codes rejected at checkout,SEV3,checkout,2026-08-27T21:52:00Z,2026-08-27T22:06:00Z,2026-08-27T22:19:00Z,2026-08-28T03:07:00Z,qa,DEP-4519,config_change
+INC-932,Inventory service unavailable,SEV3,inventory,2026-08-28T21:23:00Z,2026-08-28T21:29:00Z,2026-08-28T21:48:00Z,2026-08-29T01:40:00Z,monitoring,DEP-4522,config_change
+INC-933,Card authorizations failing,SEV1,payments,2026-09-01T18:13:00Z,2026-09-01T18:22:00Z,2026-09-01T18:31:00Z,2026-09-01T19:07:00Z,qa,DEP-4531,schema_migration
+INC-934,Duplicate charges on retry,SEV3,payments,2026-09-02T22:49:00Z,2026-09-02T22:57:00Z,2026-09-02T23:30:00Z,2026-09-03T06:16:00Z,qa,DEP-4540,schema_migration
+INC-935,Product images not loading,SEV3,catalog,2026-09-03T19:06:00Z,2026-09-03T19:14:00Z,2026-09-03T19:44:00Z,2026-09-03T21:41:00Z,monitoring,DEP-4545,code_change
+INC-936,Card authorizations failing,SEV1,payments,2026-09-04T20:40:00Z,2026-09-04T20:49:00Z,2026-09-04T20:56:00Z,2026-09-04T21:24:00Z,qa,DEP-4548,schema_migration
+INC-937,Low-stock alerts not firing,SEV3,inventory,2026-09-04T22:51:00Z,2026-09-04T22:56:00Z,2026-09-04T23:20:00Z,2026-09-05T03:44:00Z,monitoring,DEP-4549,schema_migration
+INC-938,Category pages timing out,SEV3,catalog,2026-09-08T09:15:00Z,2026-09-08T09:20:00Z,2026-09-08T10:16:00Z,2026-09-08T11:06:00Z,synthetic_check,,infrastructure
+INC-939,Stock counts out of sync,SEV3,inventory,2026-09-08T21:03:00Z,2026-09-09T02:46:00Z,2026-09-09T03:16:00Z,2026-09-09T03:21:00Z,customer_report,DEP-4559,code_change
+INC-940,Duplicate charges on retry,SEV2,payments,2026-09-09T22:45:00Z,2026-09-09T22:51:00Z,2026-09-09T22:56:00Z,2026-09-10T00:39:00Z,qa,DEP-4568,schema_migration
+INC-941,Category pages timing out,SEV1,catalog,2026-09-10T16:12:00Z,2026-09-10T16:25:00Z,2026-09-10T16:30:00Z,2026-09-10T17:24:00Z,qa,DEP-4571,code_change
+INC-942,Duplicate charges on retry,SEV3,payments,2026-09-13T13:15:00Z,2026-09-13T13:29:00Z,2026-09-13T13:44:00Z,2026-09-13T18:14:00Z,qa,,infrastructure
+INC-943,Autocomplete degraded,SEV1,search,2026-09-14T20:27:00Z,2026-09-14T20:31:00Z,2026-09-14T20:37:00Z,2026-09-14T21:50:00Z,qa,DEP-4582,schema_migration
+INC-944,Card authorizations failing,SEV3,payments,2026-09-17T19:20:00Z,2026-09-18T00:30:00Z,2026-09-18T00:55:00Z,2026-09-18T01:08:00Z,customer_report,DEP-4599,schema_migration
+INC-945,Category pages timing out,SEV4,catalog,2026-09-21T21:07:00Z,2026-09-21T21:11:00Z,2026-09-21T21:29:00Z,2026-09-22T02:21:00Z,monitoring,,capacity
+INC-946,Session tokens expiring early,SEV2,accounts,2026-09-22T05:34:00Z,2026-09-22T05:45:00Z,2026-09-22T05:52:00Z,2026-09-22T08:21:00Z,monitoring,,third_party
+INC-947,Refund job stuck,SEV3,payments,2026-09-23T00:09:00Z,2026-09-23T00:19:00Z,2026-09-23T00:30:00Z,2026-09-23T06:37:00Z,synthetic_check,DEP-4617,schema_migration
+INC-948,Refund job stuck,SEV3,payments,2026-09-23T23:47:00Z,2026-09-24T03:19:00Z,2026-09-24T03:44:00Z,2026-09-24T03:49:00Z,customer_report,DEP-4621,schema_migration
+INC-949,Promo codes rejected at checkout,SEV2,checkout,2026-09-28T17:17:00Z,2026-09-28T19:07:00Z,2026-09-28T19:13:00Z,2026-09-28T19:18:00Z,customer_report,DEP-4634,schema_migration
+INC-950,Password reset emails delayed,SEV1,accounts,2026-09-28T18:13:00Z,2026-09-28T18:26:00Z,2026-09-28T18:30:00Z,2026-09-28T19:44:00Z,monitoring,DEP-4635,code_change
+INC-951,Product images not loading,SEV3,catalog,2026-09-28T19:24:00Z,2026-09-28T19:32:00Z,2026-09-28T19:57:00Z,2026-09-29T02:35:00Z,monitoring,DEP-4637,schema_migration
+INC-952,Refund job stuck,SEV2,payments,2026-09-28T23:18:00Z,2026-09-28T23:40:00Z,2026-09-28T23:47:00Z,2026-09-29T02:28:00Z,synthetic_check,DEP-4639,schema_migration
+INC-953,Duplicate charges on retry,SEV2,payments,2026-09-29T19:46:00Z,2026-09-29T19:53:00Z,2026-09-29T20:01:00Z,2026-09-29T21:28:00Z,monitoring,DEP-4642,schema_migration
+INC-954,Payment webhook backlog,SEV3,payments,2026-09-30T16:54:00Z,2026-09-30T16:59:00Z,2026-09-30T17:21:00Z,2026-09-30T21:13:00Z,synthetic_check,DEP-4646,schema_migration
+INC-955,Refund job stuck,SEV4,payments,2026-10-02T23:26:00Z,2026-10-02T23:35:00Z,2026-10-03T00:27:00Z,2026-10-03T09:39:00Z,qa,,capacity
+INC-956,Card authorizations failing,SEV3,payments,2026-10-05T07:44:00Z,2026-10-05T07:56:00Z,2026-10-05T08:24:00Z,2026-10-05T11:16:00Z,qa,,third_party
+INC-957,Stock counts out of sync,SEV3,inventory,2026-10-08T08:21:00Z,2026-10-08T08:29:00Z,2026-10-08T08:44:00Z,2026-10-08T14:10:00Z,monitoring,,data_issue
+INC-958,Product images not loading,SEV3,catalog,2026-10-12T22:21:00Z,2026-10-12T22:25:00Z,2026-10-12T22:45:00Z,2026-10-13T04:38:00Z,synthetic_check,DEP-4697,code_change
+INC-959,Login failures spike,SEV3,accounts,2026-10-13T16:34:00Z,2026-10-13T16:40:00Z,2026-10-13T17:08:00Z,2026-10-13T21:07:00Z,monitoring,DEP-4701,schema_migration
+INC-960,Low-stock alerts not firing,SEV2,inventory,2026-10-19T22:15:00Z,2026-10-20T00:15:00Z,2026-10-20T00:22:00Z,2026-10-20T00:27:00Z,customer_report,DEP-4731,schema_migration
+INC-961,Promo codes rejected at checkout,SEV3,checkout,2026-10-20T16:31:00Z,2026-10-20T16:40:00Z,2026-10-20T17:23:00Z,2026-10-20T20:52:00Z,monitoring,,infrastructure
+INC-962,Search index lagging,SEV3,search,2026-10-24T20:30:00Z,2026-10-24T21:58:00Z,2026-10-24T22:23:00Z,2026-10-24T23:14:00Z,customer_report,,data_issue
+INC-963,Session tokens expiring early,SEV4,accounts,2026-10-25T07:42:00Z,2026-10-25T10:32:00Z,2026-10-25T10:54:00Z,2026-10-25T20:03:00Z,customer_report,,capacity
+INC-964,Duplicate charges on retry,SEV2,payments,2026-10-27T17:53:00Z,2026-10-27T18:01:00Z,2026-10-27T18:06:00Z,2026-10-27T19:18:00Z,monitoring,DEP-4759,code_change

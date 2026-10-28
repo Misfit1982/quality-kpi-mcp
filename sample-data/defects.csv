@@ -1,0 +1,422 @@
+key,summary,priority,component,found_in,status,created,resolved,reopened_count,sprint
+SHOP-2100,Sale badge shown after sale ends,Low,catalog,qa,Done,2026-05-01T19:29:00Z,2026-06-02T12:06:00Z,0,Sprint 40
+SHOP-2101,MFA code accepted after expiry,High,accounts,qa,Done,2026-05-01T22:06:00Z,2026-05-07T10:19:00Z,0,Sprint 40
+SHOP-2102,Shipping estimate missing for PO boxes,Critical,checkout,qa,Done,2026-05-01T22:30:00Z,2026-05-02T13:47:00Z,0,Sprint 40
+SHOP-2103,Profile save fails with emoji in name,Medium,accounts,production,Done,2026-05-01T22:55:00Z,2026-05-16T08:31:00Z,0,Sprint 40
+SHOP-2104,MFA code accepted after expiry,Medium,accounts,qa,Done,2026-05-04T20:44:00Z,2026-05-14T13:09:00Z,0,Sprint 40
+SHOP-2105,3DS challenge loops on Safari,Critical,payments,qa,Done,2026-05-04T21:35:00Z,2026-05-05T22:46:00Z,0,Sprint 40
+SHOP-2106,3DS challenge loops on Safari,High,payments,staging,Done,2026-05-04T22:00:00Z,2026-05-12T07:51:00Z,0,Sprint 40
+SHOP-2107,MFA code accepted after expiry,Critical,accounts,qa,Done,2026-05-05T16:43:00Z,2026-05-06T10:21:00Z,1,Sprint 40
+SHOP-2108,Email change not confirmed,Medium,accounts,staging,Done,2026-05-05T19:45:00Z,2026-05-26T05:10:00Z,0,Sprint 40
+SHOP-2109,Sale badge shown after sale ends,Medium,catalog,qa,Done,2026-05-05T21:42:00Z,2026-06-01T07:02:00Z,0,Sprint 40
+SHOP-2110,MFA code accepted after expiry,High,accounts,qa,Done,2026-05-06T15:41:00Z,2026-05-08T15:43:00Z,1,Sprint 40
+SHOP-2111,Variant images mismatched,High,catalog,qa,Done,2026-05-06T19:21:00Z,2026-05-09T14:36:00Z,1,Sprint 40
+SHOP-2112,Sale badge shown after sale ends,High,catalog,qa,Done,2026-05-06T22:52:00Z,2026-05-10T10:53:00Z,2,Sprint 40
+SHOP-2113,Out-of-stock items ranked first,High,search,qa,Done,2026-05-07T17:31:00Z,2026-05-16T12:07:00Z,0,Sprint 40
+SHOP-2114,Profile save fails with emoji in name,Critical,accounts,qa,Done,2026-05-07T20:31:00Z,2026-05-10T07:37:00Z,0,Sprint 40
+SHOP-2115,Profile save fails with emoji in name,High,accounts,qa,Done,2026-05-07T22:13:00Z,2026-05-18T22:58:00Z,0,Sprint 40
+SHOP-2116,Sorting by price ignores currency,Medium,catalog,qa,Done,2026-05-08T15:21:00Z,2026-05-16T05:09:00Z,0,Sprint 40
+SHOP-2117,Typo tolerance too aggressive,High,search,qa,Done,2026-05-08T15:42:00Z,2026-05-12T09:57:00Z,0,Sprint 40
+SHOP-2118,Warehouse code case-sensitive,Critical,inventory,staging,Done,2026-05-08T18:48:00Z,2026-05-09T20:49:00Z,0,Sprint 40
+SHOP-2119,Profile save fails with emoji in name,Critical,accounts,qa,Done,2026-05-08T20:20:00Z,2026-05-10T06:29:00Z,0,Sprint 40
+SHOP-2120,Order confirmation shows wrong total,Medium,checkout,staging,Done,2026-05-11T15:39:00Z,2026-06-16T09:04:00Z,0,Sprint 40
+SHOP-2121,Refund amount rounds incorrectly,Medium,payments,staging,Done,2026-05-11T16:51:00Z,2026-06-01T07:17:00Z,0,Sprint 40
+SHOP-2122,Refund amount rounds incorrectly,Medium,payments,qa,Done,2026-05-11T21:33:00Z,2026-05-28T18:07:00Z,0,Sprint 40
+SHOP-2123,MFA code accepted after expiry,Medium,accounts,production,Done,2026-05-12T18:31:00Z,2026-06-02T14:35:00Z,0,Sprint 40
+SHOP-2124,Shipping estimate missing for PO boxes,Medium,checkout,production,Done,2026-05-12T21:50:00Z,2026-05-24T23:17:00Z,0,Sprint 40
+SHOP-2125,3DS challenge loops on Safari,Medium,payments,qa,Done,2026-05-12T22:54:00Z,2026-05-29T21:09:00Z,0,Sprint 40
+SHOP-2126,Profile save fails with emoji in name,High,accounts,qa,Done,2026-05-13T21:13:00Z,2026-05-18T23:12:00Z,0,Sprint 40
+SHOP-2127,Saved card not shown for returning user,Low,payments,qa,Done,2026-05-13T21:28:00Z,2026-06-17T04:03:00Z,0,Sprint 40
+SHOP-2128,MFA code accepted after expiry,Medium,accounts,production,Done,2026-05-14T20:34:00Z,2026-06-13T09:06:00Z,0,Sprint 40
+SHOP-2129,Filters reset on pagination,Medium,search,staging,Done,2026-05-14T22:17:00Z,2026-05-23T13:44:00Z,0,Sprint 40
+SHOP-2130,Reserved stock not released on cancel,Medium,inventory,qa,Done,2026-05-15T17:48:00Z,2026-05-22T05:37:00Z,0,Sprint 41
+SHOP-2131,Warehouse code case-sensitive,High,inventory,qa,Done,2026-05-15T21:43:00Z,2026-05-20T06:12:00Z,0,Sprint 41
+SHOP-2132,Out-of-stock items ranked first,Medium,search,qa,Done,2026-05-15T22:33:00Z,2026-05-24T23:52:00Z,0,Sprint 41
+SHOP-2133,Sale badge shown after sale ends,Critical,catalog,qa,Done,2026-05-18T15:59:00Z,2026-05-21T03:59:00Z,0,Sprint 41
+SHOP-2134,MFA code accepted after expiry,High,accounts,qa,Done,2026-05-18T18:32:00Z,2026-05-22T18:01:00Z,0,Sprint 41
+SHOP-2135,Reserved stock not released on cancel,Medium,inventory,qa,Done,2026-05-18T19:34:00Z,2026-06-06T09:33:00Z,0,Sprint 41
+SHOP-2136,Out-of-stock items ranked first,High,search,qa,Done,2026-05-18T19:44:00Z,2026-05-21T08:35:00Z,0,Sprint 41
+SHOP-2137,Reserved stock not released on cancel,Medium,inventory,qa,Done,2026-05-19T17:55:00Z,2026-06-07T15:52:00Z,1,Sprint 41
+SHOP-2138,Typo tolerance too aggressive,High,search,staging,Done,2026-05-19T19:14:00Z,2026-05-23T22:24:00Z,0,Sprint 41
+SHOP-2139,MFA code accepted after expiry,Low,accounts,qa,Done,2026-05-19T19:41:00Z,2026-06-21T16:44:00Z,0,Sprint 41
+SHOP-2140,Out-of-stock items ranked first,Medium,search,qa,Done,2026-05-19T19:56:00Z,2026-05-31T01:36:00Z,0,Sprint 41
+SHOP-2141,Sorting by price ignores currency,Low,catalog,qa,Done,2026-05-20T17:33:00Z,2026-07-01T05:39:00Z,0,Sprint 41
+SHOP-2142,MFA code accepted after expiry,Low,accounts,qa,Done,2026-05-20T19:03:00Z,2026-06-27T22:59:00Z,0,Sprint 41
+SHOP-2143,Order confirmation shows wrong total,Critical,checkout,qa,Done,2026-05-20T20:26:00Z,2026-05-22T18:58:00Z,0,Sprint 41
+SHOP-2144,Sale badge shown after sale ends,Low,catalog,staging,Done,2026-05-20T22:12:00Z,2026-06-08T15:26:00Z,0,Sprint 41
+SHOP-2145,Email change not confirmed,Medium,accounts,staging,Done,2026-05-21T19:28:00Z,2026-06-01T01:43:00Z,0,Sprint 41
+SHOP-2146,Bulk import skips last row,Medium,inventory,qa,Done,2026-05-21T20:40:00Z,2026-06-14T19:42:00Z,0,Sprint 41
+SHOP-2147,Email change not confirmed,Critical,accounts,qa,Done,2026-05-21T21:06:00Z,2026-05-22T14:21:00Z,0,Sprint 41
+SHOP-2148,Sorting by price ignores currency,Medium,catalog,qa,Done,2026-05-22T15:33:00Z,2026-06-07T06:54:00Z,0,Sprint 41
+SHOP-2149,Variant images mismatched,Low,catalog,qa,Done,2026-05-22T17:18:00Z,2026-06-19T02:44:00Z,0,Sprint 41
+SHOP-2150,Refund amount rounds incorrectly,Medium,payments,qa,Done,2026-05-22T20:42:00Z,2026-06-11T16:14:00Z,0,Sprint 41
+SHOP-2151,MFA code accepted after expiry,High,accounts,qa,Done,2026-05-22T22:16:00Z,2026-05-26T16:37:00Z,0,Sprint 41
+SHOP-2152,Profile save fails with emoji in name,Medium,accounts,qa,Done,2026-05-25T17:59:00Z,2026-06-12T02:38:00Z,0,Sprint 41
+SHOP-2153,Guest checkout loses cart on back button,Low,checkout,qa,Done,2026-05-25T18:34:00Z,2026-07-05T03:33:00Z,0,Sprint 41
+SHOP-2154,MFA code accepted after expiry,Low,accounts,staging,Done,2026-05-25T20:08:00Z,2026-06-29T09:49:00Z,0,Sprint 41
+SHOP-2155,Refund amount rounds incorrectly,Low,payments,qa,Done,2026-05-26T17:18:00Z,2026-06-29T09:56:00Z,0,Sprint 41
+SHOP-2156,MFA code accepted after expiry,High,accounts,qa,Done,2026-05-26T18:14:00Z,2026-05-28T09:27:00Z,0,Sprint 41
+SHOP-2157,Saved card not shown for returning user,Medium,payments,qa,Done,2026-05-26T21:40:00Z,2026-06-09T13:25:00Z,0,Sprint 41
+SHOP-2158,MFA code accepted after expiry,Low,accounts,qa,Done,2026-05-27T15:48:00Z,2026-06-17T06:35:00Z,0,Sprint 41
+SHOP-2159,Refund amount rounds incorrectly,Medium,payments,qa,Done,2026-05-27T17:00:00Z,2026-06-20T15:43:00Z,0,Sprint 41
+SHOP-2160,Bulk import skips last row,Medium,inventory,staging,Done,2026-05-27T19:05:00Z,2026-06-15T16:31:00Z,0,Sprint 41
+SHOP-2161,Refund amount rounds incorrectly,High,payments,qa,Done,2026-05-27T19:50:00Z,2026-06-03T23:22:00Z,0,Sprint 41
+SHOP-2162,Tax not recalculated after address change,Critical,checkout,staging,Done,2026-05-27T21:21:00Z,2026-05-29T05:16:00Z,0,Sprint 41
+SHOP-2163,3DS challenge loops on Safari,Medium,payments,qa,In Progress,2026-05-28T18:54:00Z,,0,Sprint 41
+SHOP-2164,Warehouse code case-sensitive,Medium,inventory,qa,Done,2026-05-28T19:59:00Z,2026-06-14T13:19:00Z,0,Sprint 41
+SHOP-2165,MFA code accepted after expiry,High,accounts,staging,Done,2026-05-28T22:05:00Z,2026-05-31T18:54:00Z,0,Sprint 41
+SHOP-2166,Shipping estimate missing for PO boxes,High,checkout,qa,Done,2026-05-29T15:17:00Z,2026-06-01T15:23:00Z,0,Sprint 42
+SHOP-2167,Variant images mismatched,Medium,catalog,qa,Done,2026-05-29T18:10:00Z,2026-06-06T23:02:00Z,0,Sprint 42
+SHOP-2168,Bulk import skips last row,Medium,inventory,qa,Done,2026-05-29T19:55:00Z,2026-07-02T22:03:00Z,0,Sprint 42
+SHOP-2169,Coupon applied twice on refresh,Medium,checkout,qa,Done,2026-05-29T21:22:00Z,2026-06-07T12:52:00Z,0,Sprint 42
+SHOP-2170,Tax not recalculated after address change,Low,checkout,qa,Done,2026-06-01T15:48:00Z,2026-07-07T12:13:00Z,0,Sprint 42
+SHOP-2171,Typo tolerance too aggressive,Medium,search,qa,Done,2026-06-01T17:55:00Z,2026-06-21T17:54:00Z,1,Sprint 42
+SHOP-2172,Profile save fails with emoji in name,Low,accounts,qa,Done,2026-06-01T18:24:00Z,2026-07-29T23:54:00Z,0,Sprint 42
+SHOP-2173,Variant images mismatched,Medium,catalog,qa,Done,2026-06-01T21:14:00Z,2026-06-19T13:31:00Z,0,Sprint 42
+SHOP-2174,Sorting by price ignores currency,Medium,catalog,qa,Done,2026-06-02T15:51:00Z,2026-06-12T19:54:00Z,0,Sprint 42
+SHOP-2175,Out-of-stock items ranked first,Medium,search,qa,Done,2026-06-02T19:43:00Z,2026-06-17T03:01:00Z,0,Sprint 42
+SHOP-2176,Filters reset on pagination,Low,search,qa,Done,2026-06-03T16:09:00Z,2026-07-12T21:12:00Z,0,Sprint 42
+SHOP-2177,MFA code accepted after expiry,Medium,accounts,staging,Done,2026-06-03T16:37:00Z,2026-06-10T05:28:00Z,0,Sprint 42
+SHOP-2178,Bulk import skips last row,Low,inventory,qa,Done,2026-06-03T20:48:00Z,2026-07-20T20:19:00Z,0,Sprint 42
+SHOP-2179,Payment error message unclear,Medium,payments,qa,Done,2026-06-04T17:33:00Z,2026-06-18T05:45:00Z,0,Sprint 42
+SHOP-2180,Sale badge shown after sale ends,Medium,catalog,qa,Done,2026-06-04T17:45:00Z,2026-06-19T12:06:00Z,0,Sprint 42
+SHOP-2181,MFA code accepted after expiry,Medium,accounts,qa,Done,2026-06-04T18:42:00Z,2026-06-21T10:24:00Z,1,Sprint 42
+SHOP-2182,Sale badge shown after sale ends,Low,catalog,qa,Done,2026-06-05T15:28:00Z,2026-07-10T06:05:00Z,0,Sprint 42
+SHOP-2183,Filters reset on pagination,High,search,qa,Done,2026-06-05T16:45:00Z,2026-06-09T02:14:00Z,0,Sprint 42
+SHOP-2184,Profile save fails with emoji in name,Medium,accounts,qa,Done,2026-06-05T17:54:00Z,2026-06-30T11:22:00Z,0,Sprint 42
+SHOP-2185,Profile save fails with emoji in name,Critical,accounts,qa,Done,2026-06-05T22:19:00Z,2026-06-06T16:13:00Z,0,Sprint 42
+SHOP-2186,Shipping estimate missing for PO boxes,Low,checkout,qa,Done,2026-06-08T16:50:00Z,2026-07-26T04:03:00Z,0,Sprint 42
+SHOP-2187,Typo tolerance too aggressive,Low,search,qa,Done,2026-06-08T21:58:00Z,2026-08-06T13:28:00Z,1,Sprint 42
+SHOP-2188,Sorting by price ignores currency,Critical,catalog,staging,Done,2026-06-08T22:01:00Z,2026-06-10T16:41:00Z,0,Sprint 42
+SHOP-2189,Typo tolerance too aggressive,Low,search,production,Done,2026-06-09T17:04:00Z,2026-08-14T14:20:00Z,0,Sprint 42
+SHOP-2190,MFA code accepted after expiry,Medium,accounts,qa,Done,2026-06-09T18:56:00Z,2026-06-23T06:16:00Z,0,Sprint 42
+SHOP-2191,Warehouse code case-sensitive,High,inventory,qa,Done,2026-06-09T19:20:00Z,2026-06-14T19:13:00Z,0,Sprint 42
+SHOP-2192,Out-of-stock items ranked first,Low,search,qa,Done,2026-06-10T18:35:00Z,2026-07-15T07:01:00Z,0,Sprint 42
+SHOP-2193,Filters reset on pagination,Low,search,qa,Done,2026-06-10T22:55:00Z,2026-06-30T18:04:00Z,2,Sprint 42
+SHOP-2194,MFA code accepted after expiry,High,accounts,qa,Done,2026-06-11T15:30:00Z,2026-06-15T02:32:00Z,0,Sprint 42
+SHOP-2195,Variant images mismatched,Low,catalog,qa,Done,2026-06-11T21:22:00Z,2026-07-28T10:12:00Z,0,Sprint 42
+SHOP-2196,Sorting by price ignores currency,Critical,catalog,qa,Done,2026-06-11T22:05:00Z,2026-06-12T18:46:00Z,0,Sprint 42
+SHOP-2197,Payment error message unclear,Critical,payments,qa,Done,2026-06-12T15:34:00Z,2026-06-14T02:41:00Z,0,Sprint 43
+SHOP-2198,Sorting by price ignores currency,Medium,catalog,staging,Done,2026-06-12T18:19:00Z,2026-07-06T19:23:00Z,0,Sprint 43
+SHOP-2199,Profile save fails with emoji in name,High,accounts,staging,Done,2026-06-12T22:30:00Z,2026-06-18T19:09:00Z,0,Sprint 43
+SHOP-2200,Order confirmation shows wrong total,Critical,checkout,qa,Done,2026-06-15T17:59:00Z,2026-06-18T05:59:00Z,0,Sprint 43
+SHOP-2201,Saved card not shown for returning user,Medium,payments,production,Done,2026-06-15T18:37:00Z,2026-06-28T21:17:00Z,1,Sprint 43
+SHOP-2202,Warehouse code case-sensitive,Medium,inventory,staging,Done,2026-06-15T22:09:00Z,2026-06-23T16:30:00Z,0,Sprint 43
+SHOP-2203,Tax not recalculated after address change,High,checkout,qa,Done,2026-06-16T18:08:00Z,2026-06-22T22:42:00Z,0,Sprint 43
+SHOP-2204,Typo tolerance too aggressive,High,search,staging,Done,2026-06-16T21:53:00Z,2026-06-24T13:44:00Z,0,Sprint 43
+SHOP-2205,Filters reset on pagination,Medium,search,qa,Done,2026-06-16T22:06:00Z,2026-06-30T16:52:00Z,0,Sprint 43
+SHOP-2206,Bulk import skips last row,High,inventory,qa,Done,2026-06-17T18:56:00Z,2026-06-20T20:45:00Z,0,Sprint 43
+SHOP-2207,Sale badge shown after sale ends,Medium,catalog,qa,Done,2026-06-17T22:19:00Z,2026-07-06T09:14:00Z,0,Sprint 43
+SHOP-2208,Sale badge shown after sale ends,Critical,catalog,qa,Done,2026-06-18T15:30:00Z,2026-06-19T10:24:00Z,0,Sprint 43
+SHOP-2209,Typo tolerance too aggressive,Critical,search,qa,Done,2026-06-18T16:20:00Z,2026-06-20T02:09:00Z,0,Sprint 43
+SHOP-2210,Typo tolerance too aggressive,High,search,qa,Done,2026-06-18T18:32:00Z,2026-06-22T18:52:00Z,0,Sprint 43
+SHOP-2211,Coupon applied twice on refresh,Critical,checkout,production,Done,2026-06-18T18:54:00Z,2026-06-20T07:17:00Z,0,Sprint 43
+SHOP-2212,MFA code accepted after expiry,Medium,accounts,qa,Done,2026-06-19T19:09:00Z,2026-07-13T09:03:00Z,0,Sprint 43
+SHOP-2213,Saved card not shown for returning user,Medium,payments,staging,Done,2026-06-19T19:53:00Z,2026-07-05T10:39:00Z,0,Sprint 43
+SHOP-2214,Coupon applied twice on refresh,Medium,checkout,staging,Done,2026-06-19T22:41:00Z,2026-07-07T22:31:00Z,0,Sprint 43
+SHOP-2215,Warehouse code case-sensitive,Critical,inventory,production,Done,2026-06-22T18:29:00Z,2026-06-24T00:00:00Z,0,Sprint 43
+SHOP-2216,Shipping estimate missing for PO boxes,Medium,checkout,qa,Done,2026-06-22T21:42:00Z,2026-07-09T05:44:00Z,0,Sprint 43
+SHOP-2217,Refund amount rounds incorrectly,Medium,payments,production,Done,2026-06-22T21:56:00Z,2026-07-05T08:29:00Z,0,Sprint 43
+SHOP-2218,Profile save fails with emoji in name,Critical,accounts,staging,Done,2026-06-23T16:02:00Z,2026-06-25T11:17:00Z,0,Sprint 43
+SHOP-2219,Profile save fails with emoji in name,Low,accounts,qa,In Review,2026-06-23T18:25:00Z,,0,Sprint 43
+SHOP-2220,Email change not confirmed,Medium,accounts,staging,Done,2026-06-23T18:36:00Z,2026-07-04T09:25:00Z,0,Sprint 43
+SHOP-2221,Payment error message unclear,Low,payments,qa,Done,2026-06-23T22:01:00Z,2026-07-27T02:32:00Z,1,Sprint 43
+SHOP-2222,Profile save fails with emoji in name,Critical,accounts,staging,Done,2026-06-24T17:17:00Z,2026-06-26T16:45:00Z,0,Sprint 43
+SHOP-2223,Refund amount rounds incorrectly,Medium,payments,staging,Done,2026-06-24T18:31:00Z,2026-07-05T06:44:00Z,0,Sprint 43
+SHOP-2224,Typo tolerance too aggressive,Low,search,staging,Done,2026-06-24T20:30:00Z,2026-08-07T18:19:00Z,0,Sprint 43
+SHOP-2225,Filters reset on pagination,Low,search,staging,Done,2026-06-25T15:03:00Z,2026-07-23T14:31:00Z,0,Sprint 43
+SHOP-2226,Typo tolerance too aggressive,Low,search,qa,Done,2026-06-25T18:32:00Z,2026-07-18T22:20:00Z,0,Sprint 43
+SHOP-2227,Warehouse code case-sensitive,Medium,inventory,qa,Done,2026-06-25T18:55:00Z,2026-07-11T01:01:00Z,0,Sprint 43
+SHOP-2228,Coupon applied twice on refresh,High,checkout,qa,Done,2026-06-25T22:40:00Z,2026-07-01T12:17:00Z,0,Sprint 43
+SHOP-2229,Warehouse code case-sensitive,High,inventory,qa,Done,2026-06-26T17:15:00Z,2026-07-02T02:56:00Z,0,Sprint 44
+SHOP-2230,Saved card not shown for returning user,Medium,payments,qa,Done,2026-06-26T17:33:00Z,2026-07-04T23:13:00Z,0,Sprint 44
+SHOP-2231,Typo tolerance too aggressive,Low,search,qa,Done,2026-06-26T17:59:00Z,2026-08-01T00:09:00Z,0,Sprint 44
+SHOP-2232,3DS challenge loops on Safari,High,payments,qa,Done,2026-06-26T18:52:00Z,2026-07-01T03:43:00Z,0,Sprint 44
+SHOP-2233,Variant images mismatched,Medium,catalog,staging,Done,2026-06-26T18:57:00Z,2026-07-11T02:41:00Z,2,Sprint 44
+SHOP-2234,MFA code accepted after expiry,High,accounts,staging,Done,2026-06-29T18:13:00Z,2026-07-04T12:41:00Z,0,Sprint 44
+SHOP-2235,Reserved stock not released on cancel,Medium,inventory,qa,Done,2026-06-29T20:43:00Z,2026-07-15T09:46:00Z,0,Sprint 44
+SHOP-2236,Tax not recalculated after address change,Medium,checkout,staging,Done,2026-06-29T22:31:00Z,2026-07-08T18:21:00Z,0,Sprint 44
+SHOP-2237,Coupon applied twice on refresh,Critical,checkout,qa,Done,2026-06-30T18:27:00Z,2026-07-02T01:46:00Z,0,Sprint 44
+SHOP-2238,Guest checkout loses cart on back button,Low,checkout,qa,Done,2026-06-30T19:02:00Z,2026-09-13T05:42:00Z,0,Sprint 44
+SHOP-2239,Sale badge shown after sale ends,Medium,catalog,qa,Done,2026-06-30T19:21:00Z,2026-07-16T08:40:00Z,0,Sprint 44
+SHOP-2240,Coupon applied twice on refresh,Medium,checkout,qa,Done,2026-06-30T19:47:00Z,2026-07-27T18:31:00Z,0,Sprint 44
+SHOP-2241,Filters reset on pagination,Low,search,qa,Done,2026-07-01T17:50:00Z,2026-08-16T09:36:00Z,0,Sprint 44
+SHOP-2242,MFA code accepted after expiry,Critical,accounts,qa,Done,2026-07-01T21:30:00Z,2026-07-02T21:33:00Z,0,Sprint 44
+SHOP-2243,MFA code accepted after expiry,High,accounts,qa,Done,2026-07-01T22:27:00Z,2026-07-04T23:00:00Z,0,Sprint 44
+SHOP-2244,Reserved stock not released on cancel,High,inventory,production,Done,2026-07-02T15:12:00Z,2026-07-05T18:21:00Z,0,Sprint 44
+SHOP-2245,Typo tolerance too aggressive,Low,search,staging,Done,2026-07-02T15:24:00Z,2026-07-31T19:54:00Z,0,Sprint 44
+SHOP-2246,Variant images mismatched,High,catalog,qa,Done,2026-07-02T20:47:00Z,2026-07-06T22:54:00Z,0,Sprint 44
+SHOP-2247,Warehouse code case-sensitive,Medium,inventory,production,Done,2026-07-02T21:55:00Z,2026-07-22T13:49:00Z,0,Sprint 44
+SHOP-2248,Sorting by price ignores currency,Medium,catalog,staging,Done,2026-07-03T16:09:00Z,2026-07-21T14:53:00Z,0,Sprint 44
+SHOP-2249,Sale badge shown after sale ends,Low,catalog,qa,Done,2026-07-03T17:10:00Z,2026-08-31T11:32:00Z,0,Sprint 44
+SHOP-2250,Saved card not shown for returning user,Low,payments,staging,Done,2026-07-03T18:57:00Z,2026-07-24T09:41:00Z,0,Sprint 44
+SHOP-2251,Guest checkout loses cart on back button,Low,checkout,qa,In Progress,2026-07-06T15:50:00Z,,0,Sprint 44
+SHOP-2252,Reserved stock not released on cancel,Medium,inventory,staging,Done,2026-07-06T19:40:00Z,2026-07-25T07:52:00Z,0,Sprint 44
+SHOP-2253,Sale badge shown after sale ends,Medium,catalog,production,Done,2026-07-06T20:00:00Z,2026-07-16T14:06:00Z,0,Sprint 44
+SHOP-2254,Bulk import skips last row,High,inventory,production,Done,2026-07-07T15:40:00Z,2026-07-12T06:50:00Z,0,Sprint 44
+SHOP-2255,Refund amount rounds incorrectly,Medium,payments,qa,Done,2026-07-07T19:19:00Z,2026-07-17T21:08:00Z,0,Sprint 44
+SHOP-2256,Typo tolerance too aggressive,Medium,search,staging,Done,2026-07-07T20:24:00Z,2026-08-09T11:49:00Z,0,Sprint 44
+SHOP-2257,Variant images mismatched,High,catalog,staging,Done,2026-07-07T22:24:00Z,2026-07-12T19:47:00Z,0,Sprint 44
+SHOP-2258,Order confirmation shows wrong total,Critical,checkout,qa,Done,2026-07-08T16:30:00Z,2026-07-09T11:13:00Z,0,Sprint 44
+SHOP-2259,MFA code accepted after expiry,High,accounts,qa,Done,2026-07-08T17:02:00Z,2026-07-13T10:21:00Z,0,Sprint 44
+SHOP-2260,Warehouse code case-sensitive,Medium,inventory,qa,Done,2026-07-08T22:16:00Z,2026-07-23T21:14:00Z,0,Sprint 44
+SHOP-2261,Variant images mismatched,Low,catalog,qa,Done,2026-07-08T22:19:00Z,2026-08-18T22:01:00Z,0,Sprint 44
+SHOP-2262,Profile save fails with emoji in name,Low,accounts,qa,Done,2026-07-09T15:35:00Z,2026-07-29T05:59:00Z,0,Sprint 44
+SHOP-2263,Payment error message unclear,Critical,payments,qa,Done,2026-07-09T17:11:00Z,2026-07-10T13:04:00Z,0,Sprint 44
+SHOP-2264,Coupon applied twice on refresh,High,checkout,staging,Done,2026-07-09T21:39:00Z,2026-07-14T22:49:00Z,0,Sprint 44
+SHOP-2265,Reserved stock not released on cancel,Low,inventory,staging,Done,2026-07-10T16:25:00Z,2026-08-05T14:21:00Z,0,Sprint 45
+SHOP-2266,Email change not confirmed,High,accounts,qa,Done,2026-07-10T18:48:00Z,2026-07-16T14:50:00Z,0,Sprint 45
+SHOP-2267,Shipping estimate missing for PO boxes,Critical,checkout,qa,Done,2026-07-10T20:33:00Z,2026-07-12T03:11:00Z,0,Sprint 45
+SHOP-2268,Out-of-stock items ranked first,High,search,qa,Done,2026-07-13T15:11:00Z,2026-07-16T23:52:00Z,0,Sprint 45
+SHOP-2269,Typo tolerance too aggressive,Critical,search,qa,Done,2026-07-13T18:21:00Z,2026-07-14T17:55:00Z,0,Sprint 45
+SHOP-2270,Coupon applied twice on refresh,Medium,checkout,qa,Done,2026-07-13T21:56:00Z,2026-07-20T15:00:00Z,0,Sprint 45
+SHOP-2271,Out-of-stock items ranked first,High,search,staging,Done,2026-07-14T16:46:00Z,2026-07-18T05:10:00Z,0,Sprint 45
+SHOP-2272,Order confirmation shows wrong total,High,checkout,qa,Done,2026-07-14T17:24:00Z,2026-07-18T10:06:00Z,0,Sprint 45
+SHOP-2273,Variant images mismatched,Low,catalog,production,Done,2026-07-14T19:47:00Z,2026-08-26T20:36:00Z,0,Sprint 45
+SHOP-2274,Saved card not shown for returning user,Low,payments,qa,Done,2026-07-14T22:37:00Z,2026-08-02T00:36:00Z,0,Sprint 45
+SHOP-2275,Email change not confirmed,Medium,accounts,staging,Done,2026-07-15T16:35:00Z,2026-07-21T23:28:00Z,0,Sprint 45
+SHOP-2276,Bulk import skips last row,High,inventory,qa,Done,2026-07-15T16:59:00Z,2026-07-25T07:54:00Z,0,Sprint 45
+SHOP-2277,Coupon applied twice on refresh,Low,checkout,staging,Done,2026-07-15T21:55:00Z,2026-08-08T14:37:00Z,0,Sprint 45
+SHOP-2278,Warehouse code case-sensitive,High,inventory,qa,Done,2026-07-16T16:01:00Z,2026-07-19T10:11:00Z,0,Sprint 45
+SHOP-2279,Email change not confirmed,High,accounts,qa,Done,2026-07-16T19:53:00Z,2026-07-21T22:55:00Z,0,Sprint 45
+SHOP-2280,Refund amount rounds incorrectly,High,payments,qa,Done,2026-07-16T20:28:00Z,2026-07-22T19:49:00Z,0,Sprint 45
+SHOP-2281,Guest checkout loses cart on back button,Medium,checkout,staging,Done,2026-07-17T15:51:00Z,2026-08-12T00:46:00Z,0,Sprint 45
+SHOP-2282,Variant images mismatched,Low,catalog,qa,Done,2026-07-17T17:54:00Z,2026-08-04T06:35:00Z,0,Sprint 45
+SHOP-2283,Reserved stock not released on cancel,Low,inventory,staging,Done,2026-07-17T22:04:00Z,2026-08-13T00:07:00Z,0,Sprint 45
+SHOP-2284,Variant images mismatched,Critical,catalog,qa,Done,2026-07-17T22:14:00Z,2026-07-18T21:22:00Z,0,Sprint 45
+SHOP-2285,Order confirmation shows wrong total,High,checkout,production,Done,2026-07-20T18:39:00Z,2026-07-29T03:02:00Z,0,Sprint 45
+SHOP-2286,Reserved stock not released on cancel,High,inventory,qa,Done,2026-07-20T20:35:00Z,2026-07-28T12:19:00Z,0,Sprint 45
+SHOP-2287,Coupon applied twice on refresh,Low,checkout,qa,Done,2026-07-20T21:58:00Z,2026-08-20T17:39:00Z,0,Sprint 45
+SHOP-2288,Saved card not shown for returning user,Medium,payments,qa,Done,2026-07-21T17:49:00Z,2026-07-31T11:34:00Z,0,Sprint 45
+SHOP-2289,Typo tolerance too aggressive,Critical,search,qa,Done,2026-07-21T18:17:00Z,2026-07-23T14:06:00Z,0,Sprint 45
+SHOP-2290,Saved card not shown for returning user,Medium,payments,qa,Done,2026-07-21T22:24:00Z,2026-07-31T17:10:00Z,0,Sprint 45
+SHOP-2291,Sale badge shown after sale ends,Medium,catalog,qa,Done,2026-07-22T15:30:00Z,2026-08-01T18:13:00Z,0,Sprint 45
+SHOP-2292,Sale badge shown after sale ends,Low,catalog,staging,Done,2026-07-22T15:40:00Z,2026-08-11T07:04:00Z,0,Sprint 45
+SHOP-2293,Payment error message unclear,Critical,payments,staging,Done,2026-07-22T16:40:00Z,2026-07-23T16:10:00Z,0,Sprint 45
+SHOP-2294,MFA code accepted after expiry,Low,accounts,qa,Done,2026-07-23T20:06:00Z,2026-09-05T07:58:00Z,0,Sprint 45
+SHOP-2295,Filters reset on pagination,Medium,search,qa,Done,2026-07-23T21:11:00Z,2026-08-04T00:53:00Z,0,Sprint 45
+SHOP-2296,Order confirmation shows wrong total,High,checkout,qa,Done,2026-07-23T22:37:00Z,2026-07-27T03:58:00Z,0,Sprint 45
+SHOP-2297,Sorting by price ignores currency,High,catalog,qa,Done,2026-07-24T15:04:00Z,2026-08-01T23:52:00Z,0,Sprint 46
+SHOP-2298,Saved card not shown for returning user,Critical,payments,qa,Done,2026-07-24T16:30:00Z,2026-07-26T00:39:00Z,0,Sprint 46
+SHOP-2299,Variant images mismatched,High,catalog,staging,Done,2026-07-24T17:22:00Z,2026-07-28T12:34:00Z,0,Sprint 46
+SHOP-2300,Typo tolerance too aggressive,Medium,search,qa,Done,2026-07-27T21:26:00Z,2026-08-09T13:33:00Z,0,Sprint 46
+SHOP-2301,Payment error message unclear,Medium,payments,staging,Done,2026-07-27T22:37:00Z,2026-08-14T23:17:00Z,2,Sprint 46
+SHOP-2302,Order confirmation shows wrong total,Medium,checkout,production,Done,2026-07-27T22:44:00Z,2026-08-10T15:06:00Z,1,Sprint 46
+SHOP-2303,Saved card not shown for returning user,Low,payments,qa,Done,2026-07-27T22:55:00Z,2026-09-01T02:13:00Z,0,Sprint 46
+SHOP-2304,Email change not confirmed,High,accounts,staging,Done,2026-07-28T17:28:00Z,2026-08-02T13:09:00Z,0,Sprint 46
+SHOP-2305,Email change not confirmed,Medium,accounts,qa,Done,2026-07-28T17:56:00Z,2026-08-15T20:24:00Z,0,Sprint 46
+SHOP-2306,Sale badge shown after sale ends,High,catalog,qa,Done,2026-07-28T19:00:00Z,2026-07-30T07:50:00Z,0,Sprint 46
+SHOP-2307,Sorting by price ignores currency,High,catalog,qa,Done,2026-07-29T18:51:00Z,2026-08-10T14:26:00Z,0,Sprint 46
+SHOP-2308,Saved card not shown for returning user,Critical,payments,staging,Done,2026-07-29T21:00:00Z,2026-07-31T20:40:00Z,0,Sprint 46
+SHOP-2309,Refund amount rounds incorrectly,High,payments,qa,Done,2026-07-29T21:15:00Z,2026-08-02T18:30:00Z,0,Sprint 46
+SHOP-2310,Sale badge shown after sale ends,High,catalog,qa,Done,2026-07-29T21:47:00Z,2026-08-05T06:36:00Z,0,Sprint 46
+SHOP-2311,Bulk import skips last row,High,inventory,staging,Done,2026-07-30T15:09:00Z,2026-08-04T23:04:00Z,0,Sprint 46
+SHOP-2312,Email change not confirmed,High,accounts,qa,Done,2026-07-30T15:14:00Z,2026-08-07T10:37:00Z,0,Sprint 46
+SHOP-2313,Order confirmation shows wrong total,Critical,checkout,qa,Done,2026-07-30T20:05:00Z,2026-07-31T17:28:00Z,0,Sprint 46
+SHOP-2314,Email change not confirmed,Medium,accounts,qa,Done,2026-07-30T21:53:00Z,2026-08-11T03:16:00Z,0,Sprint 46
+SHOP-2315,Reserved stock not released on cancel,Medium,inventory,qa,Done,2026-07-30T22:58:00Z,2026-08-06T14:34:00Z,0,Sprint 46
+SHOP-2316,3DS challenge loops on Safari,Low,payments,staging,Done,2026-07-31T19:05:00Z,2026-09-01T18:37:00Z,0,Sprint 46
+SHOP-2317,Guest checkout loses cart on back button,Medium,checkout,qa,Done,2026-07-31T20:21:00Z,2026-08-15T09:37:00Z,0,Sprint 46
+SHOP-2318,Filters reset on pagination,High,search,qa,Done,2026-07-31T21:07:00Z,2026-08-04T14:17:00Z,0,Sprint 46
+SHOP-2319,3DS challenge loops on Safari,Low,payments,qa,Done,2026-08-03T19:34:00Z,2026-09-21T08:24:00Z,0,Sprint 46
+SHOP-2320,Filters reset on pagination,Medium,search,qa,Done,2026-08-03T20:44:00Z,2026-09-01T04:30:00Z,0,Sprint 46
+SHOP-2321,Typo tolerance too aggressive,High,search,staging,Done,2026-08-03T20:52:00Z,2026-08-09T05:19:00Z,0,Sprint 46
+SHOP-2322,Typo tolerance too aggressive,Medium,search,qa,Done,2026-08-04T15:30:00Z,2026-08-14T04:06:00Z,1,Sprint 46
+SHOP-2323,3DS challenge loops on Safari,Medium,payments,qa,Done,2026-08-04T21:15:00Z,2026-08-25T18:52:00Z,0,Sprint 46
+SHOP-2324,Profile save fails with emoji in name,Medium,accounts,qa,Done,2026-08-04T22:18:00Z,2026-08-15T10:09:00Z,0,Sprint 46
+SHOP-2325,Filters reset on pagination,Medium,search,qa,Done,2026-08-05T16:57:00Z,2026-09-14T13:53:00Z,0,Sprint 46
+SHOP-2326,Sale badge shown after sale ends,High,catalog,qa,Done,2026-08-05T20:40:00Z,2026-08-09T22:01:00Z,0,Sprint 46
+SHOP-2327,Typo tolerance too aggressive,Critical,search,staging,Done,2026-08-05T21:59:00Z,2026-08-06T14:59:00Z,0,Sprint 46
+SHOP-2328,Reserved stock not released on cancel,Critical,inventory,qa,Done,2026-08-06T16:04:00Z,2026-08-08T17:49:00Z,1,Sprint 46
+SHOP-2329,Variant images mismatched,Medium,catalog,qa,Done,2026-08-06T19:48:00Z,2026-08-15T13:36:00Z,0,Sprint 46
+SHOP-2330,Reserved stock not released on cancel,Medium,inventory,qa,Done,2026-08-06T21:03:00Z,2026-08-22T19:40:00Z,0,Sprint 46
+SHOP-2331,Sorting by price ignores currency,Medium,catalog,qa,Done,2026-08-07T16:17:00Z,2026-09-02T18:29:00Z,0,Sprint 47
+SHOP-2332,Warehouse code case-sensitive,Medium,inventory,staging,Done,2026-08-07T18:30:00Z,2026-08-19T23:54:00Z,0,Sprint 47
+SHOP-2333,MFA code accepted after expiry,Low,accounts,qa,Done,2026-08-07T22:42:00Z,2026-09-29T19:44:00Z,0,Sprint 47
+SHOP-2334,Coupon applied twice on refresh,High,checkout,staging,Done,2026-08-10T19:08:00Z,2026-08-17T17:51:00Z,0,Sprint 47
+SHOP-2335,Typo tolerance too aggressive,Medium,search,qa,Done,2026-08-10T20:58:00Z,2026-09-04T17:12:00Z,0,Sprint 47
+SHOP-2336,Sale badge shown after sale ends,Medium,catalog,qa,Done,2026-08-10T21:53:00Z,2026-08-28T01:47:00Z,0,Sprint 47
+SHOP-2337,Variant images mismatched,Medium,catalog,qa,Done,2026-08-11T15:16:00Z,2026-08-28T03:24:00Z,0,Sprint 47
+SHOP-2338,Saved card not shown for returning user,Critical,payments,qa,Done,2026-08-11T15:43:00Z,2026-08-13T10:52:00Z,0,Sprint 47
+SHOP-2339,Coupon applied twice on refresh,Low,checkout,qa,Done,2026-08-11T20:15:00Z,2026-09-10T12:01:00Z,0,Sprint 47
+SHOP-2340,Shipping estimate missing for PO boxes,Low,checkout,qa,Done,2026-08-12T15:02:00Z,2026-09-24T18:27:00Z,0,Sprint 47
+SHOP-2341,Profile save fails with emoji in name,High,accounts,production,Done,2026-08-12T16:28:00Z,2026-08-15T23:20:00Z,0,Sprint 47
+SHOP-2342,Refund amount rounds incorrectly,Medium,payments,staging,Done,2026-08-12T20:41:00Z,2026-08-25T14:37:00Z,0,Sprint 47
+SHOP-2343,Variant images mismatched,Medium,catalog,staging,Done,2026-08-13T17:56:00Z,2026-08-19T23:37:00Z,0,Sprint 47
+SHOP-2344,Sorting by price ignores currency,High,catalog,staging,Done,2026-08-13T19:18:00Z,2026-08-17T11:21:00Z,0,Sprint 47
+SHOP-2345,Refund amount rounds incorrectly,Medium,payments,qa,Done,2026-08-14T18:05:00Z,2026-08-21T08:31:00Z,0,Sprint 47
+SHOP-2346,Sale badge shown after sale ends,Medium,catalog,qa,Done,2026-08-14T20:51:00Z,2026-08-19T08:48:00Z,0,Sprint 47
+SHOP-2347,Email change not confirmed,Low,accounts,production,Done,2026-08-17T15:44:00Z,2026-10-20T20:36:00Z,0,Sprint 47
+SHOP-2348,Payment error message unclear,Medium,payments,staging,Done,2026-08-17T19:12:00Z,2026-08-29T23:08:00Z,0,Sprint 47
+SHOP-2349,Coupon applied twice on refresh,Low,checkout,qa,In Progress,2026-08-17T21:40:00Z,,1,Sprint 47
+SHOP-2350,Filters reset on pagination,Medium,search,staging,Done,2026-08-18T17:21:00Z,2026-08-31T01:22:00Z,0,Sprint 47
+SHOP-2351,MFA code accepted after expiry,Medium,accounts,qa,Done,2026-08-18T18:50:00Z,2026-08-26T05:50:00Z,0,Sprint 47
+SHOP-2352,Variant images mismatched,Medium,catalog,staging,Done,2026-08-18T22:12:00Z,2026-09-10T06:57:00Z,0,Sprint 47
+SHOP-2353,MFA code accepted after expiry,Medium,accounts,qa,Done,2026-08-19T20:34:00Z,2026-08-27T06:16:00Z,0,Sprint 47
+SHOP-2354,Shipping estimate missing for PO boxes,High,checkout,staging,Done,2026-08-19T21:09:00Z,2026-08-28T05:07:00Z,0,Sprint 47
+SHOP-2355,Sale badge shown after sale ends,High,catalog,qa,Done,2026-08-19T21:17:00Z,2026-08-24T02:56:00Z,1,Sprint 47
+SHOP-2356,Sorting by price ignores currency,Medium,catalog,qa,Done,2026-08-20T16:11:00Z,2026-08-30T00:08:00Z,0,Sprint 47
+SHOP-2357,Out-of-stock items ranked first,High,search,production,Done,2026-08-20T16:21:00Z,2026-08-26T09:56:00Z,0,Sprint 47
+SHOP-2358,Coupon applied twice on refresh,Medium,checkout,staging,Done,2026-08-20T18:41:00Z,2026-09-14T18:00:00Z,0,Sprint 47
+SHOP-2359,Shipping estimate missing for PO boxes,Medium,checkout,qa,Done,2026-08-20T21:31:00Z,2026-09-01T15:40:00Z,0,Sprint 47
+SHOP-2360,Warehouse code case-sensitive,Critical,inventory,qa,Done,2026-08-21T19:09:00Z,2026-08-24T02:57:00Z,0,Sprint 48
+SHOP-2361,Filters reset on pagination,High,search,qa,Done,2026-08-21T19:26:00Z,2026-08-27T13:47:00Z,0,Sprint 48
+SHOP-2362,Refund amount rounds incorrectly,Critical,payments,staging,Done,2026-08-21T22:42:00Z,2026-08-22T19:42:00Z,0,Sprint 48
+SHOP-2363,Email change not confirmed,Low,accounts,production,Done,2026-08-24T21:22:00Z,2026-09-24T13:13:00Z,0,Sprint 48
+SHOP-2364,Sale badge shown after sale ends,High,catalog,staging,Done,2026-08-24T21:32:00Z,2026-08-29T11:56:00Z,0,Sprint 48
+SHOP-2365,MFA code accepted after expiry,Low,accounts,qa,Done,2026-08-24T22:27:00Z,2026-10-02T18:58:00Z,1,Sprint 48
+SHOP-2366,Out-of-stock items ranked first,Low,search,qa,Done,2026-08-25T15:01:00Z,2026-09-17T18:20:00Z,0,Sprint 48
+SHOP-2367,Out-of-stock items ranked first,Medium,search,staging,Done,2026-08-25T21:17:00Z,2026-09-02T13:51:00Z,0,Sprint 48
+SHOP-2368,Email change not confirmed,High,accounts,production,Done,2026-08-26T15:40:00Z,2026-08-29T21:01:00Z,0,Sprint 48
+SHOP-2369,Guest checkout loses cart on back button,Low,checkout,staging,Done,2026-08-26T16:32:00Z,2026-10-02T14:58:00Z,0,Sprint 48
+SHOP-2370,Coupon applied twice on refresh,High,checkout,qa,Done,2026-08-26T16:32:00Z,2026-08-29T20:23:00Z,0,Sprint 48
+SHOP-2371,Shipping estimate missing for PO boxes,Medium,checkout,qa,Done,2026-08-26T19:40:00Z,2026-09-06T17:09:00Z,0,Sprint 48
+SHOP-2372,Refund amount rounds incorrectly,Medium,payments,staging,Done,2026-08-27T16:14:00Z,2026-09-08T19:50:00Z,0,Sprint 48
+SHOP-2373,Reserved stock not released on cancel,Low,inventory,production,Done,2026-08-27T20:37:00Z,2026-10-04T16:40:00Z,0,Sprint 48
+SHOP-2374,Coupon applied twice on refresh,Medium,checkout,production,Done,2026-08-27T22:44:00Z,2026-09-15T09:06:00Z,0,Sprint 48
+SHOP-2375,Variant images mismatched,High,catalog,qa,Done,2026-08-28T20:13:00Z,2026-08-31T05:32:00Z,0,Sprint 48
+SHOP-2376,Profile save fails with emoji in name,Medium,accounts,qa,Done,2026-08-28T22:16:00Z,2026-09-20T23:25:00Z,0,Sprint 48
+SHOP-2377,Payment error message unclear,High,payments,qa,Done,2026-08-28T22:53:00Z,2026-09-02T22:00:00Z,0,Sprint 48
+SHOP-2378,Sorting by price ignores currency,Low,catalog,qa,Done,2026-08-28T22:57:00Z,2026-10-09T17:31:00Z,0,Sprint 48
+SHOP-2379,Shipping estimate missing for PO boxes,Medium,checkout,qa,Done,2026-08-31T17:46:00Z,2026-09-07T16:56:00Z,0,Sprint 48
+SHOP-2380,Reserved stock not released on cancel,Low,inventory,qa,Done,2026-08-31T19:10:00Z,2026-09-18T05:12:00Z,0,Sprint 48
+SHOP-2381,Filters reset on pagination,Medium,search,qa,Done,2026-08-31T22:29:00Z,2026-09-16T03:24:00Z,0,Sprint 48
+SHOP-2382,Email change not confirmed,Medium,accounts,staging,Done,2026-09-01T18:13:00Z,2026-09-16T01:42:00Z,0,Sprint 48
+SHOP-2383,Filters reset on pagination,Critical,search,qa,Done,2026-09-01T19:46:00Z,2026-09-04T07:46:00Z,0,Sprint 48
+SHOP-2384,Email change not confirmed,Critical,accounts,qa,Done,2026-09-01T21:05:00Z,2026-09-02T15:33:00Z,0,Sprint 48
+SHOP-2385,Reserved stock not released on cancel,Medium,inventory,staging,Done,2026-09-02T18:49:00Z,2026-09-17T06:51:00Z,0,Sprint 48
+SHOP-2386,Warehouse code case-sensitive,Low,inventory,qa,In Progress,2026-09-02T22:04:00Z,,0,Sprint 48
+SHOP-2387,Saved card not shown for returning user,Medium,payments,staging,Done,2026-09-02T22:09:00Z,2026-09-14T11:22:00Z,0,Sprint 48
+SHOP-2388,Warehouse code case-sensitive,High,inventory,qa,Done,2026-09-03T17:43:00Z,2026-09-10T07:30:00Z,0,Sprint 48
+SHOP-2389,Reserved stock not released on cancel,Medium,inventory,qa,Done,2026-09-03T20:07:00Z,2026-09-10T20:17:00Z,1,Sprint 48
+SHOP-2390,Payment error message unclear,Medium,payments,staging,Done,2026-09-03T21:03:00Z,2026-09-18T00:33:00Z,0,Sprint 48
+SHOP-2391,Email change not confirmed,High,accounts,qa,Done,2026-09-04T15:00:00Z,2026-09-11T09:44:00Z,0,Sprint 49
+SHOP-2392,Coupon applied twice on refresh,High,checkout,production,Done,2026-09-04T17:17:00Z,2026-09-12T17:00:00Z,0,Sprint 49
+SHOP-2393,MFA code accepted after expiry,High,accounts,qa,Done,2026-09-04T19:56:00Z,2026-09-07T10:34:00Z,1,Sprint 49
+SHOP-2394,Typo tolerance too aggressive,Low,search,production,Done,2026-09-04T21:42:00Z,2026-10-06T09:12:00Z,0,Sprint 49
+SHOP-2395,Guest checkout loses cart on back button,High,checkout,staging,Done,2026-09-07T15:25:00Z,2026-09-11T09:39:00Z,0,Sprint 49
+SHOP-2396,Sorting by price ignores currency,Medium,catalog,qa,Done,2026-09-07T22:06:00Z,2026-09-22T23:15:00Z,0,Sprint 49
+SHOP-2397,Profile save fails with emoji in name,High,accounts,qa,Done,2026-09-07T22:15:00Z,2026-09-13T08:29:00Z,0,Sprint 49
+SHOP-2398,Saved card not shown for returning user,Low,payments,qa,Done,2026-09-07T22:16:00Z,2026-09-20T05:43:00Z,0,Sprint 49
+SHOP-2399,Sale badge shown after sale ends,High,catalog,qa,Done,2026-09-08T19:58:00Z,2026-09-10T18:25:00Z,0,Sprint 49
+SHOP-2400,MFA code accepted after expiry,Medium,accounts,production,Done,2026-09-08T20:13:00Z,2026-09-26T11:58:00Z,0,Sprint 49
+SHOP-2401,Reserved stock not released on cancel,Medium,inventory,qa,Done,2026-09-08T20:40:00Z,2026-10-10T20:13:00Z,0,Sprint 49
+SHOP-2402,Warehouse code case-sensitive,Medium,inventory,qa,Done,2026-09-08T22:17:00Z,2026-09-16T08:03:00Z,0,Sprint 49
+SHOP-2403,Refund amount rounds incorrectly,High,payments,staging,Done,2026-09-09T16:57:00Z,2026-09-14T15:41:00Z,0,Sprint 49
+SHOP-2404,Email change not confirmed,Low,accounts,staging,Done,2026-09-09T17:24:00Z,2026-10-20T10:52:00Z,0,Sprint 49
+SHOP-2405,Guest checkout loses cart on back button,High,checkout,production,Done,2026-09-10T17:41:00Z,2026-09-21T01:25:00Z,0,Sprint 49
+SHOP-2406,Sale badge shown after sale ends,Medium,catalog,qa,Done,2026-09-10T19:16:00Z,2026-09-18T04:32:00Z,0,Sprint 49
+SHOP-2407,Filters reset on pagination,Low,search,qa,Done,2026-09-10T21:12:00Z,2026-10-06T10:49:00Z,0,Sprint 49
+SHOP-2408,Variant images mismatched,Critical,catalog,qa,Done,2026-09-10T21:14:00Z,2026-09-12T03:20:00Z,0,Sprint 49
+SHOP-2409,Sorting by price ignores currency,Medium,catalog,qa,Done,2026-09-11T18:23:00Z,2026-09-17T20:21:00Z,0,Sprint 49
+SHOP-2410,Refund amount rounds incorrectly,High,payments,qa,Done,2026-09-11T22:19:00Z,2026-09-13T20:05:00Z,0,Sprint 49
+SHOP-2411,Filters reset on pagination,High,search,qa,Done,2026-09-11T22:25:00Z,2026-09-15T09:43:00Z,0,Sprint 49
+SHOP-2412,Variant images mismatched,High,catalog,staging,Done,2026-09-14T15:17:00Z,2026-09-17T01:06:00Z,0,Sprint 49
+SHOP-2413,Orders with gift cards charged full amount,Critical,checkout,production,In Progress,2026-09-14T16:20:00Z,,1,Sprint 49
+SHOP-2414,Saved card not shown for returning user,Critical,payments,qa,Done,2026-09-14T16:46:00Z,2026-09-15T13:37:00Z,0,Sprint 49
+SHOP-2415,Payment error message unclear,High,payments,production,Done,2026-09-14T19:10:00Z,2026-09-19T09:21:00Z,0,Sprint 49
+SHOP-2416,Email change not confirmed,Low,accounts,staging,Done,2026-09-14T21:34:00Z,2026-10-08T02:38:00Z,0,Sprint 49
+SHOP-2417,Reserved stock not released on cancel,Medium,inventory,staging,Done,2026-09-15T17:59:00Z,2026-10-02T03:30:00Z,0,Sprint 49
+SHOP-2418,Sorting by price ignores currency,Low,catalog,qa,Done,2026-09-15T18:27:00Z,2026-10-14T18:21:00Z,0,Sprint 49
+SHOP-2419,Profile save fails with emoji in name,High,accounts,qa,Done,2026-09-15T18:30:00Z,2026-09-22T14:22:00Z,0,Sprint 49
+SHOP-2420,Refund amount rounds incorrectly,High,payments,production,Done,2026-09-16T15:52:00Z,2026-09-22T09:40:00Z,0,Sprint 49
+SHOP-2421,Saved card not shown for returning user,Medium,payments,qa,Done,2026-09-16T16:27:00Z,2026-09-27T02:50:00Z,0,Sprint 49
+SHOP-2422,MFA code accepted after expiry,High,accounts,qa,Done,2026-09-16T18:49:00Z,2026-09-22T04:43:00Z,0,Sprint 49
+SHOP-2423,Out-of-stock items ranked first,High,search,staging,Done,2026-09-17T19:16:00Z,2026-09-22T23:23:00Z,0,Sprint 49
+SHOP-2424,Warehouse code case-sensitive,Medium,inventory,qa,Done,2026-09-17T19:57:00Z,2026-10-10T19:54:00Z,0,Sprint 49
+SHOP-2425,Filters reset on pagination,High,search,staging,Done,2026-09-17T22:08:00Z,2026-09-21T18:10:00Z,0,Sprint 49
+SHOP-2426,Typo tolerance too aggressive,Low,search,staging,Done,2026-09-18T15:28:00Z,2026-10-19T04:57:00Z,0,Sprint 50
+SHOP-2427,Refund amount rounds incorrectly,Low,payments,staging,In Progress,2026-09-18T17:37:00Z,,0,Sprint 50
+SHOP-2428,Reserved stock not released on cancel,High,inventory,qa,Done,2026-09-18T18:17:00Z,2026-09-23T04:25:00Z,1,Sprint 50
+SHOP-2429,Shipping estimate missing for PO boxes,Critical,checkout,qa,Done,2026-09-18T18:57:00Z,2026-09-19T13:39:00Z,0,Sprint 50
+SHOP-2430,Filters reset on pagination,High,search,qa,Done,2026-09-21T20:11:00Z,2026-09-27T08:25:00Z,0,Sprint 50
+SHOP-2431,Order confirmation shows wrong total,Critical,checkout,staging,Done,2026-09-21T20:42:00Z,2026-09-23T23:14:00Z,0,Sprint 50
+SHOP-2432,Payment error message unclear,Low,payments,staging,In Review,2026-09-21T21:36:00Z,,1,Sprint 50
+SHOP-2433,Sale badge shown after sale ends,High,catalog,qa,Done,2026-09-21T22:48:00Z,2026-09-23T15:58:00Z,0,Sprint 50
+SHOP-2434,Out-of-stock items ranked first,High,search,qa,Done,2026-09-22T15:21:00Z,2026-09-28T20:32:00Z,0,Sprint 50
+SHOP-2435,Bulk import skips last row,Medium,inventory,qa,Done,2026-09-22T16:10:00Z,2026-09-29T22:58:00Z,0,Sprint 50
+SHOP-2436,Coupon applied twice on refresh,Medium,checkout,staging,Done,2026-09-22T19:35:00Z,2026-10-07T01:09:00Z,0,Sprint 50
+SHOP-2437,Sale badge shown after sale ends,High,catalog,qa,Done,2026-09-22T22:36:00Z,2026-10-04T00:16:00Z,0,Sprint 50
+SHOP-2438,Variant images mismatched,Low,catalog,staging,Done,2026-09-23T20:32:00Z,2026-10-18T04:56:00Z,0,Sprint 50
+SHOP-2439,Filters reset on pagination,High,search,qa,Done,2026-09-23T21:33:00Z,2026-09-27T08:49:00Z,0,Sprint 50
+SHOP-2440,MFA code accepted after expiry,Medium,accounts,qa,Done,2026-09-23T21:56:00Z,2026-10-08T11:22:00Z,0,Sprint 50
+SHOP-2441,Coupon applied twice on refresh,Medium,checkout,production,Done,2026-09-24T16:14:00Z,2026-10-08T23:01:00Z,0,Sprint 50
+SHOP-2442,Filters reset on pagination,Medium,search,staging,Open,2026-09-24T18:11:00Z,,0,Sprint 50
+SHOP-2443,Typo tolerance too aggressive,High,search,qa,Done,2026-09-24T20:59:00Z,2026-09-28T09:58:00Z,0,Sprint 50
+SHOP-2444,Sale badge shown after sale ends,Medium,catalog,qa,Done,2026-09-24T22:12:00Z,2026-10-14T17:38:00Z,0,Sprint 50
+SHOP-2445,Sorting by price ignores currency,Medium,catalog,staging,Done,2026-09-25T17:22:00Z,2026-10-19T08:28:00Z,0,Sprint 50
+SHOP-2446,Sorting by price ignores currency,Medium,catalog,qa,Done,2026-09-25T18:48:00Z,2026-10-06T19:56:00Z,0,Sprint 50
+SHOP-2447,MFA code accepted after expiry,High,accounts,qa,Done,2026-09-25T22:28:00Z,2026-10-01T05:35:00Z,0,Sprint 50
+SHOP-2448,Order confirmation shows wrong total,Medium,checkout,production,Done,2026-09-28T17:14:00Z,2026-10-16T06:19:00Z,1,Sprint 50
+SHOP-2449,Typo tolerance too aggressive,Medium,search,staging,Done,2026-09-28T19:07:00Z,2026-10-08T00:16:00Z,1,Sprint 50
+SHOP-2450,MFA code accepted after expiry,Medium,accounts,qa,Done,2026-09-28T20:24:00Z,2026-10-11T07:15:00Z,0,Sprint 50
+SHOP-2451,Reserved stock not released on cancel,High,inventory,qa,Done,2026-09-29T20:43:00Z,2026-10-03T01:54:00Z,0,Sprint 50
+SHOP-2452,MFA code accepted after expiry,Low,accounts,qa,Done,2026-09-29T21:10:00Z,2026-10-23T12:17:00Z,0,Sprint 50
+SHOP-2453,Variant images mismatched,High,catalog,qa,Done,2026-09-29T22:44:00Z,2026-10-03T09:03:00Z,0,Sprint 50
+SHOP-2454,Order confirmation shows wrong total,Critical,checkout,staging,Done,2026-09-30T19:25:00Z,2026-10-02T00:53:00Z,0,Sprint 50
+SHOP-2455,Payment error message unclear,Low,payments,qa,In Review,2026-09-30T20:06:00Z,,0,Sprint 50
+SHOP-2456,Guest checkout loses cart on back button,Low,checkout,qa,Done,2026-09-30T20:29:00Z,2026-10-20T04:49:00Z,0,Sprint 50
+SHOP-2457,Filters reset on pagination,Low,search,qa,Open,2026-10-01T15:16:00Z,,0,Sprint 50
+SHOP-2458,Saved card not shown for returning user,High,payments,qa,Done,2026-10-01T15:39:00Z,2026-10-03T14:39:00Z,0,Sprint 50
+SHOP-2459,Reserved stock not released on cancel,Low,inventory,staging,In Review,2026-10-01T18:11:00Z,,0,Sprint 50
+SHOP-2460,Profile save fails with emoji in name,High,accounts,staging,Done,2026-10-01T20:48:00Z,2026-10-08T20:05:00Z,0,Sprint 50
+SHOP-2461,Tax not recalculated after address change,High,checkout,staging,Done,2026-10-01T21:15:00Z,2026-10-05T21:37:00Z,0,Sprint 50
+SHOP-2462,3DS challenge loops on Safari,Low,payments,qa,Open,2026-10-02T17:25:00Z,,0,Sprint 51
+SHOP-2463,Bulk import skips last row,Medium,inventory,qa,Done,2026-10-02T20:33:00Z,2026-10-18T21:05:00Z,0,Sprint 51
+SHOP-2464,Typo tolerance too aggressive,Critical,search,qa,Done,2026-10-02T21:32:00Z,2026-10-04T14:51:00Z,0,Sprint 51
+SHOP-2465,Reserved stock not released on cancel,Medium,inventory,qa,Done,2026-10-05T15:12:00Z,2026-10-21T17:10:00Z,0,Sprint 51
+SHOP-2466,Reserved stock not released on cancel,Medium,inventory,qa,Done,2026-10-05T16:06:00Z,2026-10-19T02:48:00Z,0,Sprint 51
+SHOP-2467,MFA code accepted after expiry,High,accounts,staging,Done,2026-10-05T16:32:00Z,2026-10-09T17:55:00Z,0,Sprint 51
+SHOP-2468,Typo tolerance too aggressive,Critical,search,qa,Done,2026-10-05T18:24:00Z,2026-10-06T10:40:00Z,0,Sprint 51
+SHOP-2469,Bulk import skips last row,Medium,inventory,qa,Done,2026-10-06T17:44:00Z,2026-10-25T02:03:00Z,0,Sprint 51
+SHOP-2470,Email change not confirmed,Medium,accounts,staging,Done,2026-10-06T18:40:00Z,2026-10-16T00:42:00Z,1,Sprint 51
+SHOP-2471,Filters reset on pagination,Medium,search,qa,Done,2026-10-06T21:33:00Z,2026-10-18T09:36:00Z,0,Sprint 51
+SHOP-2472,Shipping estimate missing for PO boxes,High,checkout,qa,Done,2026-10-06T22:22:00Z,2026-10-10T05:02:00Z,0,Sprint 51
+SHOP-2473,Variant images mismatched,High,catalog,qa,Done,2026-10-06T22:44:00Z,2026-10-09T19:36:00Z,0,Sprint 51
+SHOP-2474,Email change not confirmed,Medium,accounts,qa,Done,2026-10-07T15:27:00Z,2026-10-25T03:23:00Z,0,Sprint 51
+SHOP-2475,Filters reset on pagination,Low,search,production,In Review,2026-10-07T18:57:00Z,,0,Sprint 51
+SHOP-2476,Bulk import skips last row,Medium,inventory,qa,Done,2026-10-07T21:07:00Z,2026-10-21T04:42:00Z,0,Sprint 51
+SHOP-2477,Refund amount rounds incorrectly,High,payments,qa,Done,2026-10-07T22:40:00Z,2026-10-10T05:25:00Z,0,Sprint 51
+SHOP-2478,Profile save fails with emoji in name,Critical,accounts,qa,Done,2026-10-08T16:09:00Z,2026-10-09T08:21:00Z,0,Sprint 51
+SHOP-2479,Coupon applied twice on refresh,High,checkout,qa,Done,2026-10-08T18:06:00Z,2026-10-14T06:42:00Z,0,Sprint 51
+SHOP-2480,Out-of-stock items ranked first,Medium,search,qa,Done,2026-10-08T19:21:00Z,2026-10-18T13:12:00Z,2,Sprint 51
+SHOP-2481,Profile save fails with emoji in name,High,accounts,qa,Done,2026-10-08T22:40:00Z,2026-10-12T18:37:00Z,0,Sprint 51
+SHOP-2482,Warehouse code case-sensitive,Medium,inventory,production,Done,2026-10-09T16:12:00Z,2026-10-18T23:58:00Z,0,Sprint 51
+SHOP-2483,Refund amount rounds incorrectly,Medium,payments,qa,In Review,2026-10-09T18:03:00Z,,1,Sprint 51
+SHOP-2484,Filters reset on pagination,Medium,search,qa,In Review,2026-10-09T20:41:00Z,,0,Sprint 51
+SHOP-2485,Out-of-stock items ranked first,High,search,qa,Done,2026-10-12T15:58:00Z,2026-10-17T09:32:00Z,0,Sprint 51
+SHOP-2486,Warehouse code case-sensitive,Critical,inventory,production,Done,2026-10-12T19:00:00Z,2026-10-13T12:29:00Z,0,Sprint 51
+SHOP-2487,Shipping estimate missing for PO boxes,High,checkout,staging,Done,2026-10-12T21:09:00Z,2026-10-20T07:43:00Z,0,Sprint 51
+SHOP-2488,Sale badge shown after sale ends,High,catalog,staging,Done,2026-10-13T15:23:00Z,2026-10-18T02:58:00Z,0,Sprint 51
+SHOP-2489,Bulk import skips last row,High,inventory,qa,Done,2026-10-13T18:31:00Z,2026-10-21T02:59:00Z,0,Sprint 51
+SHOP-2490,Coupon applied twice on refresh,Critical,checkout,production,Done,2026-10-13T19:25:00Z,2026-10-14T19:20:00Z,0,Sprint 51
+SHOP-2491,Out-of-stock items ranked first,Low,search,staging,In Progress,2026-10-14T18:18:00Z,,0,Sprint 51
+SHOP-2492,Typo tolerance too aggressive,Medium,search,staging,Done,2026-10-14T19:09:00Z,2026-10-23T15:32:00Z,0,Sprint 51
+SHOP-2493,Refund amount rounds incorrectly,Medium,payments,qa,Open,2026-10-14T22:53:00Z,,0,Sprint 51
+SHOP-2494,Payment error message unclear,Medium,payments,qa,In Progress,2026-10-15T15:28:00Z,,0,Sprint 51
+SHOP-2495,Out-of-stock items ranked first,Critical,search,qa,Done,2026-10-15T18:10:00Z,2026-10-17T14:08:00Z,0,Sprint 51
+SHOP-2496,MFA code accepted after expiry,Medium,accounts,staging,Done,2026-10-15T20:22:00Z,2026-10-22T16:03:00Z,0,Sprint 51
+SHOP-2497,Profile save fails with emoji in name,Low,accounts,staging,Open,2026-10-16T18:48:00Z,,0,Sprint 52
+SHOP-2498,Email change not confirmed,Medium,accounts,staging,In Review,2026-10-16T19:32:00Z,,0,Sprint 52
+SHOP-2499,Reserved stock not released on cancel,Medium,inventory,staging,Open,2026-10-16T21:54:00Z,,0,Sprint 52
+SHOP-2500,Payment error message unclear,Medium,payments,qa,Open,2026-10-16T22:22:00Z,,0,Sprint 52
+SHOP-2501,Saved card not shown for returning user,Low,payments,staging,In Progress,2026-10-19T16:39:00Z,,0,Sprint 52
+SHOP-2502,3DS challenge loops on Safari,High,payments,staging,Done,2026-10-19T21:02:00Z,2026-10-24T12:20:00Z,0,Sprint 52
+SHOP-2503,Shipping estimate missing for PO boxes,Low,checkout,production,In Progress,2026-10-20T15:04:00Z,,0,Sprint 52
+SHOP-2504,Typo tolerance too aggressive,Low,search,qa,In Review,2026-10-20T20:47:00Z,,0,Sprint 52
+SHOP-2505,Profile save fails with emoji in name,High,accounts,qa,In Review,2026-10-21T17:15:00Z,,0,Sprint 52
+SHOP-2506,Typo tolerance too aggressive,Medium,search,staging,Open,2026-10-21T21:56:00Z,,0,Sprint 52
+SHOP-2507,Bulk import skips last row,Medium,inventory,qa,Open,2026-10-21T22:14:00Z,,0,Sprint 52
+SHOP-2508,Order confirmation shows wrong total,Critical,checkout,production,Done,2026-10-22T16:37:00Z,2026-10-23T11:17:00Z,0,Sprint 52
+SHOP-2509,Reserved stock not released on cancel,High,inventory,qa,Done,2026-10-22T17:01:00Z,2026-10-27T02:54:00Z,0,Sprint 52
+SHOP-2510,Filters reset on pagination,Critical,search,production,Done,2026-10-23T16:49:00Z,2026-10-24T02:03:00Z,0,Sprint 52
+SHOP-2511,3DS challenge loops on Safari,Medium,payments,qa,In Review,2026-10-23T17:58:00Z,,0,Sprint 52
+SHOP-2512,Saved card not shown for returning user,Low,payments,qa,In Progress,2026-10-23T19:48:00Z,,0,Sprint 52
+SHOP-2513,Tax not recalculated after address change,High,checkout,qa,Open,2026-10-26T16:35:00Z,,0,Sprint 52
+SHOP-2514,Profile save fails with emoji in name,Critical,accounts,qa,In Progress,2026-10-26T18:31:00Z,,0,Sprint 52
+SHOP-2515,Typo tolerance too aggressive,High,search,qa,Open,2026-10-26T21:42:00Z,,0,Sprint 52
+SHOP-2516,Sale badge shown after sale ends,High,catalog,production,Open,2026-10-26T22:22:00Z,,0,Sprint 52
+SHOP-2517,Filters reset on pagination,High,search,staging,Open,2026-10-27T15:33:00Z,,0,Sprint 52
+SHOP-2518,Variant images mismatched,Medium,catalog,qa,In Review,2026-10-27T19:22:00Z,,0,Sprint 52
+SHOP-2519,Sorting by price ignores currency,Low,catalog,qa,In Review,2026-10-27T19:24:00Z,,0,Sprint 52
+SHOP-2520,3DS challenge loops on Safari,Medium,payments,staging,In Review,2026-10-27T22:09:00Z,,0,Sprint 52

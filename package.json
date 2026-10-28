@@ -1,0 +1,46 @@
+{
+  "name": "quality-kpi-mcp",
+  "version": "1.0.0",
+  "description": "MCP server that gives engineering leaders quality KPIs from Jira and incident exports: MTTR, DORA metrics, defect escape rate, aging and SLA breaches, executive summaries and dashboards.",
+  "main": "dist/server.js",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "tsc",
+    "start": "node dist/server.js",
+    "generate-data": "tsx scripts/generate-sample-data.ts",
+    "smoke": "tsx scripts/smoke-test.ts"
+  },
+  "keywords": [
+    "mcp",
+    "dora",
+    "mttr",
+    "engineering-metrics",
+    "qa",
+    "kpi",
+    "claude"
+  ],
+  "author": "Jared Hood",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "type": "module",
+  "bin": {
+    "quality-kpi-mcp": "dist/server.js"
+  },
+  "files": [
+    "dist",
+    "sample-data",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
