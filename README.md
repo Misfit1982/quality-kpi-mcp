@@ -14,7 +14,7 @@ No BI project, no data warehouse, no spreadsheet stitched together the night bef
 ## Demo
 
 **1. "Prepare the quality update for my VP"** · Claude pulls 90 days of KPIs and writes the executive report.
-(https://github.com/user-attachments/assets/48914ab8-c7f4-4081-9755-02f63e99c92b)
+https://github.com/user-attachments/assets/48914ab8-c7f4-4081-9755-02f63e99c92b
 
 **2. Root cause and trends** · Which service is causing failed deploys, and how MTTR moved month by month.
 
